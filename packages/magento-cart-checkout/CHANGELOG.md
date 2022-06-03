@@ -1,5 +1,12 @@
 # Change Log
 
+## 3.0.28
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @graphcommerce/magento-cart-items@3.0.29
+
 ## 3.0.27
 
 ### Patch Changes

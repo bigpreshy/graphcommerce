@@ -1,5 +1,13 @@
 # @graphcommerce/magento-wishlist
 
+## 1.2.6
+
+### Patch Changes
+
+- Updated dependencies [[`de6781908`](https://github.com/graphcommerce-org/graphcommerce/commit/de6781908cbf514b9fd225aa1407fa1385c8e53b)]:
+  - @graphcommerce/magento-product-configurable@4.1.13
+  - @graphcommerce/magento-product@4.4.6
+
 ## 1.2.5
 
 ### Patch Changes

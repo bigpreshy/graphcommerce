@@ -1,5 +1,11 @@
 # Change Log
 
+## 4.4.6
+
+### Patch Changes
+
+- [#1506](https://github.com/graphcommerce-org/graphcommerce/pull/1506) [`de6781908`](https://github.com/graphcommerce-org/graphcommerce/commit/de6781908cbf514b9fd225aa1407fa1385c8e53b) Thanks [@FrankHarland](https://github.com/FrankHarland)! - use array notation for sx support
+
 ## 4.4.5
 
 ### Patch Changes
